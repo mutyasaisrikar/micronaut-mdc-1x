@@ -1,0 +1,5 @@
+micronaut:
+  config-client:
+    enabled: true
+  server:
+    thread-selection: IO
